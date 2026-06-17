@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm GANGALAPUDI VENKATESH</h1>
+![image alt](https://github.com/GANGALAPUDIVENKATESH/GANGALAPUDIVENKATESH/blob/63c53d9635cca368ee93e6ad54e4710f171c820e/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
+
 <h3 align="center">Python | Machine Learning Engineer | Data Science | Power BI | Building Intelligent Solutions with AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangalapudivenkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="gangalapudivenkatesh" /> </p>
