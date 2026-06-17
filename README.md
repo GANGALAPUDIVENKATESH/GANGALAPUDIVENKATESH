@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm GANGALAPUDI VENKATESH</h1>
 
+![image alt](https://github.com/GANGALAPUDIVENKATESH/GANGALAPUDIVENKATESH/blob/c199e9a88afccd15722acbef239177c1949e0a9c/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
 
 <h3 align="center">Python | Machine Learning Engineer | Data Science | Power BI | Building Intelligent Solutions with AI</h3>
 
